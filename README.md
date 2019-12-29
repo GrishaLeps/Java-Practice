@@ -1,7 +1,7 @@
 # Java-Practice
 Having fun with Java <3
 
-## Git
+# Git
 > Version-control system
 
 [cheat sheet]: http://overapi.com/static/cs/git-cheat-sheet.pdf
