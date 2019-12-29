@@ -12,6 +12,9 @@ Having fun with Java <3
 ### Check status:
 ```git status```
 
+### Download changes:
+```git pull```
+
 ### Upload changes:
 ```git add .```
 
