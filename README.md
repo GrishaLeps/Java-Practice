@@ -14,5 +14,7 @@ Having fun with Java <3
 
 ### Upload changes:
 ```git add .```
+
 ```git commit -m "Message."```
+
 ```git push```
