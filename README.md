@@ -1,5 +1,5 @@
 # Java-Practice
-Having fun with Java <3
+Having fun with Java.
 
 # Git
 > Version-control system
