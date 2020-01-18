@@ -29,7 +29,7 @@ public class Main {
         return -1;
     }
     public static void main(String[] args) {
-        int [] Array = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 55, 66, 68, 85, 101, 110, 125, 179, 201, 356, 1000};
+        int [] Array = {8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 55, 66, 68, 85, 101, 110, 125, 179, 201, 356, 1000};
         int result = binarySearch(Array, 201);
         System.out.println(result);
     }
